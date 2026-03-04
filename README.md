@@ -114,5 +114,3 @@ Steps:
 4. Deploy
 
 ---
-
-⭐ If you found this project helpful, consider giving it a star on GitHub.
